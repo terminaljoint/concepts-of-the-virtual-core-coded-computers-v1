@@ -6,6 +6,8 @@ Welcome to the official repository for **CONCEPTS OF THE VIRTUAL CORE CODED COMP
 
 This book explores the architectural shift from rigid physical hardware dependencies to flexible, software-defined virtual execution environments.
 
+[SUPPORT THE AUTHOR](#SUPPORT-THE-AUTHOR)
+
 ---
 
 # TABLE OF CONTENTS
@@ -13,12 +15,12 @@ This book explores the architectural shift from rigid physical hardware dependen
 * [CHAPTER-1 : Introduction to VCCC](PART-1-FOUNDATION/CHAPTER--1--Introduction-to-VCCC)
 ---
 
-## 💰 Support the Author
+# SUPPORT THE AUTHOR
 If you find this book valuable, consider supporting my work:
 * **Sponsor me on GitHub:** 
 
 ---
 
-## ⚖️ License & Copyright
+# License & Copyright
 Copyright © 2026 Murugan Santhosh (@terminaljoint). All rights reserved. 
 Please see the [LICENSE](LICENSE.md) file for permitted and prohibited uses.
