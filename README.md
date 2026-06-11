@@ -14,7 +14,7 @@ This book explores the architectural shift from rigid physical hardware dependen
 ---
 
 # TABLE OF CONTENTS
-[PART-1](#PART-I:-FOUNDATIONS)
+[PART-1](#PART-I-FOUNDATIONS)
 
 ## [PREFACE](PREFACE.md)
 * ### [Why Virtual Core Coded Computers?](PREFACE.md#why-virtual-core-coded-computers)
