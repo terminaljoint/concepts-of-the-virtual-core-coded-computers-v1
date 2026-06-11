@@ -7,11 +7,8 @@ This book explores the architectural shift from rigid physical hardware dependen
 ---
 
 ## 📖 Table of Contents
-* [Introduction](introduction.md)
-* [Chapter 1: Physical vs. Virtual (Logical) Cores](chapter-1.md)
-* [Chapter 2: Hypervisors & Abstraction Layers](chapter-2.md)
-* [Chapter 3: Process & Coded Virtual Machines](chapter-3.md)
-
+* ### [PART-1] (PART-1 : FOUNDATION)
+* [CHAPTER-1] (chapter-1)
 ---
 
 ## 💰 Support the Author
