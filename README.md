@@ -62,7 +62,7 @@ This book explores the architectural shift from rigid physical hardware dependen
 
 ---
 
-[PART-7 : ADVANCED VCCC](PART-7-ADVANCED VCCC/)
+[PART-7 : ADVANCED VCCC](PART-7-ADVANCED-VCCC/)
 * [CHAPTER-20 : Networking](PART-7-ADVANCED-VCCC/CHAPTER-20-Networking.md)
 * [CHAPTER-21 : Multi-Core VCCC](PART-7-ADVANCED-VCCC/CHAPTER-21-Multi-Core-VCCC.md)
 * [CHAPTER-22 : Self-Hosting Computers](PART-7-ADVANCED-VCCC/CHAPTER-22-Self-Hosting-Computers.md)
