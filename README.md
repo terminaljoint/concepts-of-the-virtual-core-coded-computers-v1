@@ -7,8 +7,8 @@ This book explores the architectural shift from rigid physical hardware dependen
 ---
 
 ## 📖 Table of Contents
-* ### [PART-1] (PART-1 : FOUNDATION)
-* [CHAPTER-1] (chapter-1)
+* ### [PART-1](PART-1 : FOUNDATION)
+* [CHAPTER-1](chapter-1)
 ---
 
 ## 💰 Support the Author
