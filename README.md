@@ -8,7 +8,7 @@ This book explores the architectural shift from rigid physical hardware dependen
 
 ## 📖 Table of Contents
 [PART-1 : FOUNDATION](PART-1-FOUNDATION/)
-* [CHAPTER-1 : Introduction to VCCC](PART-1-FOUNDATION/chapter--1--Introduction-to-VCCC)
+* [CHAPTER-1 : Introduction to VCCC](PART-1-FOUNDATION/CHAPTER--1--Introduction-to-VCCC)
 ---
 
 ## 💰 Support the Author
