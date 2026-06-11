@@ -16,7 +16,6 @@ This book explores the architectural shift from rigid physical hardware dependen
 
 ## 💰 Support the Author
 If you find this book valuable, consider supporting my work:
-* **Buy the Offline PDF/ePub Version:** 
 * **Sponsor me on GitHub:** 
 
 ---
