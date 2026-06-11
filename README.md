@@ -8,12 +8,13 @@ This book explores the architectural shift from rigid physical hardware dependen
 
 [SUPPORT THE AUTHOR](#SUPPORT-THE-AUTHOR)
 
-## This Book Now has 25 Chapters.
+## This Book Now has 8 Parts and 25 Chapters.
 
 
 ---
 
 # TABLE OF CONTENTS
+ * [PART-1](#PART-I:-FOUNDATIONS)
 
 ## [PREFACE](PREFACE.md)
 * ### [Why Virtual Core Coded Computers?](PREFACE.md#why-virtual-core-coded-computers)
