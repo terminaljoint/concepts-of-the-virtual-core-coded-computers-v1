@@ -22,4 +22,4 @@ If you find this book valuable, consider supporting my work:
 
 ## ⚖️ License & Copyright
 Copyright © 2026 Murugan Santhosh (@terminaljoint). All rights reserved. 
-Please see the [LICENSE](LICENSE) file for permitted and prohibited uses.
+Please see the [LICENSE](LICENSE.md) file for permitted and prohibited uses.
