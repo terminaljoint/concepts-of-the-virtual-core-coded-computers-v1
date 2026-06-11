@@ -1,8 +1,8 @@
 CLICK HERE FOR JUMPING TO THE [TABLE OF CONTENTS](#TABLE-OF-CONTENTS)
 
-# CONCEPTS OF THE VIRTUAL CORE CODED COMPUTERS
+# CONCEPTS OF THE VIRTUAL CORE CODED COMPUTERS Version-1
 
-Welcome to the official repository for **CONCEPTS OF THE VIRTUAL CORE CODED COMPUTERS**, written by **Murugan Santhosh (@terminaljoint)**. 
+Welcome to the official repository for **CONCEPTS OF THE VIRTUAL CORE CODED COMPUTERS** (VCCC), written by **Murugan Santhosh (@terminaljoint)**. 
 
 This book explores the architectural shift from rigid physical hardware dependencies to flexible, software-defined virtual execution environments.
 
