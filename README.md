@@ -8,13 +8,7 @@ This book explores the architectural shift from rigid physical hardware dependen
 
 [SUPPORT THE AUTHOR](#SUPPORT-THE-AUTHOR)
 
-## This Book Now has;
-
-**Total Chapters:** 25 Chapters (plus 1 Preface and 5 Appendices).
-
-**Total Main Topics:** 63 topics across the chapters.
-
-**Total Detailed Sub-Topics:** 136 individual sub-topic overviews across the entire book.
+## This Book Now has 25 Chapters.
 
 
 ---
