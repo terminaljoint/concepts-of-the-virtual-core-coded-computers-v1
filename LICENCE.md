@@ -1,6 +1,6 @@
 # Copyright © 2026 Murugan Santhosh (@terminaljoint). All rights reserved.
 
-## This book, "CONCEPTS OF THE VIRTUAL CORE CODED COMPUTERS," and all associated files in this repository are the sole intellectual property of the author. 
+## This book, "CONCEPTS OF THE VIRTUAL CORE CODED COMPUTERS", and all associated files in this repository are the sole intellectual property of the author. 
 
 # Permitted Use:
 ## You are permitted to view, read, and download this material strictly for personal, educational, and non-commercial study. 
