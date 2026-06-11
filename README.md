@@ -12,21 +12,21 @@ This book explores the architectural shift from rigid physical hardware dependen
 
 # TABLE OF CONTENTS
 
-[PREFACE](PREFACE.md)
-* [Why Virtual Core Coded Computers?](PREFACE.md#why-virtual-core-coded-computers)
-  *  [The Convergence of Software Engineering and Hardware Synthesis](PREFACE.md#the-convergence-of-software-engineering-and-hardware-synthesis)
-  *  [Breaking the Monolithic Silicon Monopoly](PREFACE.md#breaking-the-monolithic-silicon-monopoly)
-  *   [Code as the Ultimate Fabric for Architectural Mutation](PREFACE.md#code-as-the-ultimate-fabric-for-architectural-mutation)
-* [Purpose of This Book](PREFACE.md#purpose-of-this-book)
+## [PREFACE](PREFACE.md)
+* ### [Why Virtual Core Coded Computers?](PREFACE.md#why-virtual-core-coded-computers)
+  * [The Convergence of Software Engineering and Hardware Synthesis](PREFACE.md#the-convergence-of-software-engineering-and-hardware-synthesis)
+  * [Breaking the Monolithic Silicon Monopoly](PREFACE.md#breaking-the-monolithic-silicon-monopoly)
+  * [Code as the Ultimate Fabric for Architectural Mutation](PREFACE.md#code-as-the-ultimate-fabric-for-architectural-mutation)
+* ### [Purpose of This Book](PREFACE.md#purpose-of-this-book)
   * [Demystifying Low-Level Hardware Through High-Level Abstraction](PREFACE.md#demystifying-low-level-hardware-through-high-level-abstraction)
   * [The Full-Stack Blueprint: From NAND Gates to an Independent Kernel](PREFACE.md#the-full-stack-blueprint-from-nand-gates-to-an-independent-kernel)
-* [Who Should Read This?](PREFACE.md#who-should-read-this)
+* ### [Who Should Read This?](PREFACE.md#who-should-read-this)
   * [The Systems Programmers and Emerging Architects](PREFACE.md#the-systems-programmers-and-existing-architects)
   * [Prerequisites and Expected Paradigm Shifts](PREFACE.md#prerequisites-and-expected-paradigm-shifts)
 
 ---
 
-[PART I: FOUNDATIONS](PART-1-FOUNDATIONS/)
+## [PART I: FOUNDATIONS](PART-1-FOUNDATIONS/)
 
 ### [CHAPTER 1: Introduction to VCCC](PART-1-FOUNDATIONS/CHAPTER-1-Introduction-to-VCCC.md)
 * #### [1.1 What is a Virtual Core Coded Computer?](PART-1-FOUNDATIONS/CHAPTER-1-Introduction-to-VCCC.md#11-what-is-a-virtual-core-coded-computer)
