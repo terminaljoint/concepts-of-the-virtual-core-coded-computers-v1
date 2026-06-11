@@ -26,7 +26,7 @@ This book explores the architectural shift from rigid physical hardware dependen
 * [APPENDICES](#APPENDICES) (A,B,C,D,E)
 
 
-# Repository Architecture & File Mapping Blueprint
+## Repository Architecture & File Mapping Blueprint
 
 * ## [PREFACE](PREFACE.md)
   * ### [Why Virtual Core Coded Computers?](PREFACE.md#why-virtual-core-coded-computers)
