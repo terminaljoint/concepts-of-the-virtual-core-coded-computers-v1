@@ -42,11 +42,11 @@ This book explores the architectural shift from rigid physical hardware dependen
 
 ## [PART I: FOUNDATIONS](PART-1-FOUNDATIONS/)
 
-### [CHAPTER 1: Introduction to VCCC](PART-1-FOUNDATIONS/CHAPTER-1-Introduction-to-VCCC.md)
-* #### [1.1 What is a Virtual Core Coded Computer?](PART-1-FOUNDATIONS/CHAPTER-1-Introduction-to-VCCC.md#11-what-is-a-virtual-core-coded-computer)
-  * [The Modern Definition of a Code-Defined Processor Core](PART-1-FOUNDATIONS/CHAPTER-1-Introduction-to-VCCC.md#the-modern-definition-of-a-code-defined-processor-core)
+### [CHAPTER 1: Introduction to VCCC](PART-1-FOUNDATIONS/CHAPTER-1-Introduction-to-VCCC)
+* #### [1.1 What is a Virtual Core Coded Computer?](PART-1-FOUNDATIONS/CHAPTER-1-Introduction-to-VCCC/1-what-is-a-virtual-core-coded-computer.md)
+  * [The Modern Definition of a Code-Defined Processor Core](PART-1-FOUNDATIONS/CHAPTER-1-Introduction-to-VCCC/1-what-is-a-virtual-core-coded-computer.md#the-modern-definition-of-a-code-defined-processor-core)
   * [Contrasting VCCC with Hypervisors, Emulators, and Interpreters](PART-1-FOUNDATIONS/CHAPTER-1-Introduction-to-VCCC.md#contrasting-vccc-with-hypervisors-emulators-and-interpreters)
-* #### [1.2 Physical vs Virtual Computers](PART-1-FOUNDATIONS/CHAPTER-1-Introduction-to-VCCC.md#12-physical-vs-virtual-computers)
+* #### [1.2 Physical vs Virtual Computers](PART-1-FOUNDATIONS/CHAPTER-1-Introduction-to-VCCC/2-physical-vs-virtual-computers)
   * [The Physical Paradigm: Silicon Wafers, Copper Interconnects, and Electron Physics](PART-1-FOUNDATIONS/CHAPTER-1-Introduction-to-VCCC.md#the-physical-paradigm-silicon-wafers-copper-interconnects-and-electron-physics)
   * [The Virtual Paradigm: Managed Memory Pools, Software Threads, and State Spaces](PART-1-FOUNDATIONS/CHAPTER-1-Introduction-to-VCCC.md#the-virtual-paradigm-managed-memory-pools-software-threads-and-state-spaces)
 * #### [1.3 History of Computer Emulation](PART-1-FOUNDATIONS/CHAPTER-1-Introduction-to-VCCC.md#13-history-of-computer-emulation)
