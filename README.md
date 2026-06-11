@@ -1,4 +1,4 @@
-CLICK HERE FOR JUMPING TO THE [TABLE OF CONTENTS](#Table-of-Contents)
+CLICK HERE FOR JUMPING TO THE [TABLE OF CONTENTS](#TABLE-OF-CONTENTS)
 
 # CONCEPTS OF THE VIRTUAL CORE CODED COMPUTERS
 
@@ -8,7 +8,7 @@ This book explores the architectural shift from rigid physical hardware dependen
 
 ---
 
-## Table of Contents
+# TABLE OF CONTENTS
 [PART-1 : FOUNDATION](PART-1-FOUNDATION/)
 * [CHAPTER-1 : Introduction to VCCC](PART-1-FOUNDATION/CHAPTER--1--Introduction-to-VCCC)
 ---
