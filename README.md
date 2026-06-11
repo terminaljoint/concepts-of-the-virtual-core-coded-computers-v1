@@ -1,2 +1,2 @@
-# concepts-of-the-virtual-core-coded-computers-v1
+# CONCEPTS OF THE VIRTUAL CORE CODED COMPUTERS
 This is an exclusive book written by Murugan Santhosh about CONCEPTS OF THE VIRTUAL CORE CODED COMPUTERS
