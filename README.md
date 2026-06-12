@@ -341,17 +341,17 @@ This book explores the architectural shift from rigid physical hardware dependen
       * [Sneak Peek into VCCC-2: 64-bit Core Overhauls and Native Out-of-Order Pipelines](PART-8-FUTURE-DIRECTIONS/CHAPTER-25-Summary-and-Outlook/2-version-2-architectural-roadmap.md#sneak-peek-into-vccc-2-64-bit-core-overhauls-and-native-out-of-order-pipelines)
       * [The Future Horizon of Universally Fluid Software Architectures](PART-8-FUTURE-DIRECTIONS/CHAPTER-25-Summary-and-Outlook/2-version-2-architectural-roadmap.md#the-future-horizon-of-universally-fluid-software-architectures)
 
-* ## [APPENDICES](APPENDICES/)
-  * ### [APPENDIX A: System Architecture Schematics](APPENDICES/APPENDIX-A-System-Architecture-Schematics.md)
-    * [Block Diagrams of Interconnect Layout Channels](APPENDICES/APPENDIX-A-System-Architecture-Schematics.md#block-diagrams-of-interconnect-layout-channels)
-  * ### [APPENDIX B: Complete Python Source Code](APPENDICES/APPENDIX-B-Complete-Python-Source-Code.md)
-    * [The Production Code for the Entire Minimal Working Core, Memory Stack, and Assembler](APPENDICES/APPENDIX-B-Complete-Python-Source-Code.md#the-production-code-for-the-entire-minimal-working-core-memory-stack-and-assembler)
-  * ### [APPENDIX C: Assembly Language Quick Reference](APPENDICES/APPENDIX-C-Assembly-Language-Quick-Reference.md)
-    * [Syntax Cards for Writing Applications on VCCC Systems](APPENDICES/APPENDIX-C-Assembly-Language-Quick-Reference.md#syntax-cards-for-writing-applications-on-vccc-systems)
-  * ### [APPENDIX D: Glossary](APPENDICES/APPENDIX-D-Glossary.md)
-    * [The Comprehensive Dictionary of System and Software-Defined Hardware Terminology](APPENDICES/APPENDIX-D-Glossary.md#the-comprehensive-dictionary-of-system-and-software-defined-hardware-terminology)
-  * ### [APPENDIX E: Exercises and Practical Projects](APPENDICES/APPENDIX-E-Exercises-and-Practical-Projects.md)
-    * [End-of-Chapter Implementation Challenges, Debugging Bugs, and Project Blueprints](APPENDICES/APPENDIX-E-Exercises-and-Practical-Projects.md#end-of-chapter-implementation-challenges-debugging-bugs-and-project-blueprints)
+* ## [APPENDICES](Z-APPENDICES/)
+  * ### [APPENDIX A: System Architecture Schematics](Z-APPENDICES/APPENDIX-A-System-Architecture-Schematics.md)
+    * [Block Diagrams of Interconnect Layout Channels](Z-APPENDICES/APPENDIX-A-System-Architecture-Schematics.md#block-diagrams-of-interconnect-layout-channels)
+  * ### [APPENDIX B: Complete Python Source Code](Z-APPENDICES/APPENDIX-B-Complete-Python-Source-Code.md)
+    * [The Production Code for the Entire Minimal Working Core, Memory Stack, and Assembler](Z-APPENDICES/APPENDIX-B-Complete-Python-Source-Code.md#the-production-code-for-the-entire-minimal-working-core-memory-stack-and-assembler)
+  * ### [APPENDIX C: Assembly Language Quick Reference](Z-APPENDICES/APPENDIX-C-Assembly-Language-Quick-Reference.md)
+    * [Syntax Cards for Writing Applications on VCCC Systems](Z-APPENDICES/APPENDIX-C-Assembly-Language-Quick-Reference.md#syntax-cards-for-writing-applications-on-vccc-systems)
+  * ### [APPENDIX D: Glossary](Z-APPENDICES/APPENDIX-D-Glossary.md)
+    * [The Comprehensive Dictionary of System and Software-Defined Hardware Terminology](Z-APPENDICES/APPENDIX-D-Glossary.md#the-comprehensive-dictionary-of-system-and-software-defined-hardware-terminology)
+  * ### [APPENDIX E: Exercises and Practical Projects](Z-APPENDICES/APPENDIX-E-Exercises-and-Practical-Projects.md)
+    * [End-of-Chapter Implementation Challenges, Debugging Bugs, and Project Blueprints](Z-APPENDICES/APPENDIX-E-Exercises-and-Practical-Projects.md#end-of-chapter-implementation-challenges-debugging-bugs-and-project-blueprints)
 ---
 
 # SUPPORT THE AUTHOR
