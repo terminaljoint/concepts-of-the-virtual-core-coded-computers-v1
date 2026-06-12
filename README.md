@@ -28,17 +28,17 @@ This book explores the architectural shift from rigid physical hardware dependen
 
 ## Repository Architecture & File Mapping Blueprint
 
-* ## [PREFACE](PREFACE.md)
-  * ### [Why Virtual Core Coded Computers?](PREFACE.md#why-virtual-core-coded-computers)
-    * [The Convergence of Software Engineering and Hardware Synthesis](PREFACE.md#the-convergence-of-software-engineering-and-hardware-synthesis)
-    * [Breaking the Monolithic Silicon Monopoly](PREFACE.md#breaking-the-monolithic-silicon-monopoly)
-    * [Code as the Ultimate Fabric for Architectural Mutation](PREFACE.md#code-as-the-ultimate-fabric-for-architectural-mutation)
+* ## [PREFACE](1-PREFACE.md)
+  * ### [Why Virtual Core Coded Computers?](1-PREFACE.md#why-virtual-core-coded-computers)
+    * [The Convergence of Software Engineering and Hardware Synthesis](1-PREFACE.md#the-convergence-of-software-engineering-and-hardware-synthesis)
+    * [Breaking the Monolithic Silicon Monopoly](1-PREFACE.md#breaking-the-monolithic-silicon-monopoly)
+    * [Code as the Ultimate Fabric for Architectural Mutation](1-PREFACE.md#code-as-the-ultimate-fabric-for-architectural-mutation)
   * ### [Purpose of This Book](PREFACE.md#purpose-of-this-book)
-    * [Demystifying Low-Level Hardware Through High-Level Abstraction](PREFACE.md#demystifying-low-level-hardware-through-high-level-abstraction)
-    * [The Full-Stack Blueprint: From NAND Gates to an Independent Kernel](PREFACE.md#the-full-stack-blueprint-from-nand-gates-to-an-independent-kernel)
+    * [Demystifying Low-Level Hardware Through High-Level Abstraction](1-PREFACE.md#demystifying-low-level-hardware-through-high-level-abstraction)
+    * [The Full-Stack Blueprint: From NAND Gates to an Independent Kernel](1-PREFACE.md#the-full-stack-blueprint-from-nand-gates-to-an-independent-kernel)
   * ### [Who Should Read This?](PREFACE.md#who-should-read-this)
-    * [The Systems Programmers and Emerging Architects](PREFACE.md#the-systems-programmers-and-existing-architects)
-    * [Prerequisites and Expected Paradigm Shifts](PREFACE.md#prerequisites-and-expected-paradigm-shifts)
+    * [The Systems Programmers and Emerging Architects](1-PREFACE.md#the-systems-programmers-and-existing-architects)
+    * [Prerequisites and Expected Paradigm Shifts](1-PREFACE.md#prerequisites-and-expected-paradigm-shifts)
 
 * ## [PART I: FOUNDATIONS](PART-1-FOUNDATIONS/)
   * ### [CHAPTER 1: Introduction to VCCC](PART-1-FOUNDATIONS/CHAPTER-1-Introduction-to-VCCC/)
