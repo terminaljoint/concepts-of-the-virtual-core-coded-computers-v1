@@ -14,7 +14,7 @@ This book explores the architectural shift from rigid physical hardware dependen
 ---
 
 # TABLE OF CONTENTS
-* [PREFACE](#PREFACE)
+* [1-PREFACE](#PREFACE)
 * [PART-1 : FOUNDATIONS](#PART-I-FOUNDATIONS) (CHAPTERS: 1,2,3)
 * [PART-2 : BUILDING THE CORE](#PART-II-BUILDING-THE-CORE) (CHAPTERS: 4,5,6,7)
 * [PART-3 : CREATING A VIRTUAL CPU](#PART-III-CREATING-A-VIRTUAL-CPU) (CHAPTERS: 8,9,10)
@@ -28,17 +28,17 @@ This book explores the architectural shift from rigid physical hardware dependen
 
 ## Repository Architecture & File Mapping Blueprint
 
-* ## [PREFACE](1-PREFACE.md)
-  * ### [Why Virtual Core Coded Computers?](1-PREFACE.md#why-virtual-core-coded-computers)
-    * [The Convergence of Software Engineering and Hardware Synthesis](1-PREFACE.md#the-convergence-of-software-engineering-and-hardware-synthesis)
-    * [Breaking the Monolithic Silicon Monopoly](1-PREFACE.md#breaking-the-monolithic-silicon-monopoly)
-    * [Code as the Ultimate Fabric for Architectural Mutation](1-PREFACE.md#code-as-the-ultimate-fabric-for-architectural-mutation)
-  * ### [Purpose of This Book](PREFACE.md#purpose-of-this-book)
-    * [Demystifying Low-Level Hardware Through High-Level Abstraction](1-PREFACE.md#demystifying-low-level-hardware-through-high-level-abstraction)
-    * [The Full-Stack Blueprint: From NAND Gates to an Independent Kernel](1-PREFACE.md#the-full-stack-blueprint-from-nand-gates-to-an-independent-kernel)
-  * ### [Who Should Read This?](PREFACE.md#who-should-read-this)
-    * [The Systems Programmers and Emerging Architects](1-PREFACE.md#the-systems-programmers-and-existing-architects)
-    * [Prerequisites and Expected Paradigm Shifts](1-PREFACE.md#prerequisites-and-expected-paradigm-shifts)
+* ## [1-PREFACE](1-PREFACE/)
+  * ### [Why Virtual Core Coded Computers?](1-PREFACE/why-virtual-core-coded-computers.md)
+    * [The Convergence of Software Engineering and Hardware Synthesis](1-PREFACE/why-virtual-core-coded-computers.md#the-convergence-of-software-engineering-and-hardware-synthesis)
+    * [Breaking the Monolithic Silicon Monopoly](1-PREFACE/why-virtual-core-coded-computers.md#breaking-the-monolithic-silicon-monopoly)
+    * [Code as the Ultimate Fabric for Architectural Mutation](1-PREFACE/why-virtual-core-coded-computers.md#code-as-the-ultimate-fabric-for-architectural-mutation)
+  * ### [Purpose of This Book](1-PREFACE/purpose-of-this-book.md)
+    * [Demystifying Low-Level Hardware Through High-Level Abstraction](1-PREFACE/purpose-of-this-book.md#demystifying-low-level-hardware-through-high-level-abstraction)
+    * [The Full-Stack Blueprint: From NAND Gates to an Independent Kernel](1-PREFACE/purpose-of-this-book.md#the-full-stack-blueprint-from-nand-gates-to-an-independent-kernel)
+  * ### [Who Should Read This?](1-PREFACE/who-should-read-this.md)
+    * [The Systems Programmers and Emerging Architects](1-PREFACE/who-should-read-this.md#the-systems-programmers-and-existing-architects)
+    * [Prerequisites and Expected Paradigm Shifts](1-PREFACE/who-should-read-this.md#prerequisites-and-expected-paradigm-shifts)
 
 * ## [PART I: FOUNDATIONS](PART-1-FOUNDATIONS/)
   * ### [CHAPTER 1: Introduction to VCCC](PART-1-FOUNDATIONS/CHAPTER-1-Introduction-to-VCCC/)
