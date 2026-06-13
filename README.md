@@ -29,7 +29,7 @@ This book explores the architectural shift from rigid physical hardware dependen
 ## Repository Architecture & File Mapping Blueprint
 
 * ## [1-PREFACE](1-PREFACE/)
-  * ### [INTRODUCTION](1-PREFACE/INTRODUCTION.md)
+  * ### [INTRODUCTION](1-PREFACE/1-INTRODUCTION.md)
   * ### [Why Virtual Core Coded Computers?](1-PREFACE/2-why-virtual-core-coded-computers.md)
     * [The Convergence of Software Engineering and Hardware Synthesis](1-PREFACE/2-why-virtual-core-coded-computers.md#the-convergence-of-software-engineering-and-hardware-synthesis)
     * [Breaking the Monolithic Silicon Monopoly](1-PREFACE/2-why-virtual-core-coded-computers.md#breaking-the-monolithic-silicon-monopoly)
