@@ -10,4 +10,4 @@
 * Then i started building one, And i wanted to create a specific documentation for it and started writing this.
 * Still i didn't Develop any VCCC, I am Developing A VCCC Alongside at the same time while writing this Documentation Book, Because i can write and develop well when i do both.
 * ***SO I SUGGEST YOU TO READ EVERYTHING WITHOUT SKIPPING ANYTHING***
-* I searched for a suitable name, yeah "Virtual Computers" also suits this well, But this "Virtual Core Coded Computers" are different from them, let's see about that detailly in further Topics in this Book.
+* I searched for a suitable name, yeah "Virtual Computers" also suits this well, But this "Virtual Core Coded Computers" are different from them, let's see about that detailly in further Topics in this Book...
