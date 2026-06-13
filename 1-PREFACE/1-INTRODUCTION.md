@@ -6,5 +6,5 @@
 # I Got Idea About VCCC:
 * Already i had some ideas about Virtual Computers / Virtual Machines, But what i got from minecraft computer idea is to build a computer enirely from scratch including Hardwares.
 * Because in minecraft too, we have to build a computer from scratch, So I planned to Create the entire computer from scratch using PYTHON.
-* Then i started building one, And i wanted to create a specific documentation for it and writing this.
+* Then i started building one, And i wanted to create a specific documentation for it and started writing this.
 * I searched for a suitable name, yeah "Virtual Computers" also suits this well, But this "Virtual Core Coded Computers" are different from them, let's see about that detailly in further Topics in this Book.
