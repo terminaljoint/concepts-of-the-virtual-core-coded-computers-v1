@@ -14,3 +14,9 @@
 * My curiosity began when I discovered that my cx1400cka Chromebook could run ChromeOS and Linux simultaneously. At first this seemed impossible. How could one computer behave as if it contained another computer inside it? The answer led me to the world of virtual machines, software-defined systems, and eventually the ideas explored throughout this book.
 * If software can describe processors, memory systems, storage devices, operating systems, and even complete execution environments, then the boundary between software engineering and hardware architecture becomes increasingly blurred. VCCC explores this intersection by treating computer architecture itself as something that can be constructed, modified, and studied through code.
 * If software can define a processor, memory, storage, and even an operating system, then what truly separates a computer from the code that describes it?
+  
+## Breaking the Monolithic Silicon Monopoly
+* Think of it., we can't generate as many real hardware we need as they are expensive, take resources to manufacture, takes time..., but If we have a computer as a code inside a computer?
+* Yeah, we can generate infinite VCCC if we have some storage space...
+* **Modifying Hardware requires Resources, money, time, and more, But for Modifying Software?; We need some texts; Then New Registers?, New Memory model?, New Instruction ideas? Everything Become possible via VCCC.
+*   
