@@ -17,7 +17,7 @@
   
 ## Breaking the Monolithic Silicon Monopoly
 * Think of it., we can't generate as many real hardware we need as they are expensive, take resources to manufacture, takes time..., but If we have a computer as a code inside a computer?
-* Yeah, we can generate infinite VCCC if we have some storage space...
+* Yeah, we can generate infinite VCCC if we have enough storage space...
   
 * **Modifying Hardware requires Resources, money, time, and more, But for Modifying Software?; We need some texts; Then New Registers?, New Memory model?, New Instruction ideas? Everything Become possible via VCCC.**
 *   
